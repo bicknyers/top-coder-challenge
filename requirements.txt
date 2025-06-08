@@ -1,0 +1,5 @@
+numpy
+lightning
+torch
+tensorboard
+matplotlib
